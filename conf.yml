@@ -1,6 +1,6 @@
 world:
     factor: 2             # how many sprites per grid square
-    tile_size: 64         # the length (and width) of a tile in pixels
+    tile_size: 8         # the length (and width) of a tile in pixels #default is 64
     max_grid_objects: 100 # maximum objects that can be detected at once
     fps : 60              # frames per second
     growth_rate : 100 #200     # growth rate of plants (number per tick)
