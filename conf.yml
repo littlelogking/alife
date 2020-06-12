@@ -24,4 +24,6 @@ bugs: # todo, include 1 and 2 for rock, plant, etc.
     2 : alife.agents.hill_climbing/SimpleHillClimber/{'H':3, 'max_episode_length':500, 'num_episodes_per_test':5}
     3 : alife.agents.hill_climbing/SimpleHillClimber/{'H':-3, 'max_episode_length':500, 'num_episodes_per_test':5}
     4 : alife.agents.dumb/DumbAgent/{'name':'Dummy'}
+    5 : alife.agents.logagent/LogAgent/{'name':'keisha'}
+    
 
